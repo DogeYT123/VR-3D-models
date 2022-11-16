@@ -1,0 +1,11 @@
+Model Information:
+* title:	SpongeBob Ripped Pants
+* source:	https://sketchfab.com/3d-models/spongebob-ripped-pants-26f97a0ab3f44346b1c8d3188dc669e7
+* author:	jabbari.parsa91 (https://sketchfab.com/jabbari.parsa91)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SpongeBob Ripped Pants" (https://sketchfab.com/3d-models/spongebob-ripped-pants-26f97a0ab3f44346b1c8d3188dc669e7) by jabbari.parsa91 (https://sketchfab.com/jabbari.parsa91) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
