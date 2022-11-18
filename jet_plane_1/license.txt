@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jet Plane 1
+* source:	https://sketchfab.com/3d-models/jet-plane-1-fd82b47575f745c8af9f51c9a9ebde82
+* author:	kamilhakimi19 (https://sketchfab.com/kamilhakimi19)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jet Plane 1" (https://sketchfab.com/3d-models/jet-plane-1-fd82b47575f745c8af9f51c9a9ebde82) by kamilhakimi19 (https://sketchfab.com/kamilhakimi19) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
